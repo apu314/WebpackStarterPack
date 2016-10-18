@@ -1,1 +1,1 @@
-"# WebpackStarterPack" 
+# WebpackStarterPack
