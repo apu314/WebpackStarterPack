@@ -1,0 +1,29 @@
+{
+  "name": "webpackstarterpack",
+  "version": "1.0.0",
+  "description": "Esqueleto de inicio para nuevos proyectos con NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apu314/WebpackStarterPack.git"
+  },
+  "keywords": [
+    "webpack",
+    "nodejs",
+    "ecmascript",
+    "bundler"
+  ],
+  "author": "Adolfo Unturbe (apu314)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apu314/WebpackStarterPack/issues"
+  },
+  "homepage": "https://github.com/apu314/WebpackStarterPack#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
