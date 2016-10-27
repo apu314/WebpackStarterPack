@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/apu314/WebpackStarterPack#readme",
   "devDependencies": {
+    "postcss-loader": "^1.0.0",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2"
   }
